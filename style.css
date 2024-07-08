@@ -139,6 +139,7 @@ nav a:nth-child(4):hover~span
     font-family: queen of camelot;
     font-size: 20px;
     margin: 8px 0;
+    color: #fff;
 }
 
 .arrivals .arrivals_box .arrivals_card .arrivals_tag .arrivals_icon{
